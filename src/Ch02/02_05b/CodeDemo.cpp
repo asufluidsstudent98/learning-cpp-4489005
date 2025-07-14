@@ -1,4 +1,4 @@
-// Learning C++ 
+// Learning C++ good to go
 // Exercise 02_05
 // Type inference with auto, by Eduardo Corpeño 
 
