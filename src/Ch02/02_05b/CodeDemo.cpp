@@ -7,7 +7,7 @@
 
 int main(){
     auto a = 8; //int
-    auto b = 12345678901; //long
+    auto b = 12345678901; //long 
     auto c = 3.14f; //float
     auto d  = 3.14; // double
     auto e = true; // bool
