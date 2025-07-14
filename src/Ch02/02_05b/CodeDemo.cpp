@@ -12,7 +12,8 @@ int main(){
     auto d  = 3.14; // double
     auto e = true; // bool
     auto f = 'd'; // char
-    auto g = "C++ sucks!"; //pointer construct char (string)
+    auto g = 3.2; //"C++ sucks!"; //getting rid of lack of error
+                           //pointer construct char (string)
 
     std::cout << "the type of a is " << typeid(a).name() << std::endl;
     std::cout << "the type of b is " << typeid(b).name() << std::endl;
