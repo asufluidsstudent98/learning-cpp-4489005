@@ -4,13 +4,14 @@
 
 #include <iostream>
 #include <string>
+using namespace std;
 
 int main(){
-    std::string str;
-    std::cout << "Enter your name: " << std::flush;
-    std::cin >> str;
-    std::cout << "Nice to meet you, " << str << "!" << std::endl;
+    string str;
+    cout << "Enter your name: " << flush;
+    cin >> str;
+    cout << "Nice to meet you, " << str << "!" << endl;
 
-    std::cout << std::endl << std::endl;
+    cout << endl << endl;
     return (0);
 }
